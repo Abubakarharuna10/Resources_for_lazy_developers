@@ -10,8 +10,8 @@
 
 **Concept Sheets** - Contains the **explanation of specific details** about the working.
 
-- It is recommended to download this repo and preview in a markdown software [Ex. Obsidian] for best experience. 
-- Or You can visit my [Dev.to Blog](https://dev.to/zinox9) To Preview them Online
+- It is recommended to download this repo and preview it in a markdown software [Ex. Obsidian] for the best experience. 
+- Or You can visit my [Medium]https://medium.com/@abba_haruna) To Preview them Online
 
 ----
 
